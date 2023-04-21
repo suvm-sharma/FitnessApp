@@ -1,0 +1,17 @@
+{
+  "name": "launchedapp_fitnessapp1",
+  "version": "1.0.0",
+  "description": "Creating a Fitness App Where different types of WorkOuts are attached with Fitness Programs ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22"
+  }
+}
